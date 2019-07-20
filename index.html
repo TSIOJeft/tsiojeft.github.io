@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./css/material.min.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+    <script src="./css/material.min.js"></script>
+    <script src="assets/bmob/dist/Bmob-1.7.1.min.js"></script>
+    <script src="data/Bmob.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=0.5, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
+    <title>远方の客栈</title>
+</head>
+<body>
+<!--头部-->
+<div class="mdl-layout mdl-js-layout">
+    <header class="mdl-layout__header mdl-layout__header--scroll">
+        <div class="mdl-layout__header-row">
+            <!-- Title -->
+            <span class="mdl-layout-title">远方の客栈</span>
+            <!-- Add spacer, to align navigation to the right -->
+            <div class="mdl-layout-spacer"></div>
+            <!-- Navigation -->
+            <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="">主页</a>
+            </nav>
+        </div>
+    </header>
+    <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">导航</span>
+        <nav class="mdl-navigation">
+            <a class="mdl-navigation__link">主页</a>
+    
+        </nav>
+    </div>
+    <main class="mdl-layout__content" id="main_layout">
+
+        <div class="page-content" style="margin: 16px" align="center">
+            <div class="mdl-grid" align="center">
+                <div class="demo-card-square mdl-card mdl-shadow--2dp" style="margin: 16px" align="center" id="card_layout">
+                    <div class="mdl-card__title icon1 mdl-card--expand">
+                        <h2 class="mdl-card__title-text">大佬QQ点赞</h2>
+
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        这是一个用来全自动互赞 互赞的一个工具
+                        无需ROOT 就能一键互赞
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect"
+                           href="https://www.lanzous.com/i36tx8j">
+                            Download
+                        </a>
+                    </div>
+                </div>
+                <div class="demo-card-square mdl-card mdl-shadow--2dp" style="margin: 16px">
+                    <div class="mdl-card__title icon3 mdl-card--expand" >
+                        <h2 class="mdl-card__title-text">Google Sans 字体下载</h2>
+                    </div>
+                    <div class="mdl-card__supporting-text">
+                        android 8.0 fonts google sans 让你的字体更加漂亮
+                        当然只是英文字体(｡･∀･)ﾉﾞ
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect"
+                           href="https://www.lanzous.com/i2k8c2j">
+                            DOWNLOAD
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+            <BUTTON onclick=get()>Bmob
+            </BUTTON>
+        </div>
+    </main>
+    <footer class="mdl-mini-footer">
+        <div class="mdl-mini-footer__left-section">
+
+            <div class="mdl-logo">
+                <img src="assets/imgs/head.png" style="width: 32px;height: 32px" width="90" height="90">
+            </div>
+            <ul class="mdl-mini-footer__link-list">
+                <li><a href="mqqwpa://im/chat?chat_type=wpa&uin=1971214855&version=1">联系我</a></li>
+            </ul>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
+<style>
+    .demo-card-square.mdl-card {
+        width: 320px;
+        height: 320px;
+    }
+
+    .demo-card-square .mdl-card__title.icon1 {
+        color: #fff;
+        background: url('assets/imgs/icon.png') bottom right 15% no-repeat #46B6AC;
+    }
+
+    .demo-card-square .mdl-card__title.icon2 {
+        color: #fff;
+        background: url('assets/imgs/ssr_icon.png') bottom right 15% no-repeat #ffffff;
+    }
+
+    .demo-card-square .mdl-card__title.icon3 {
+        color: #fff;
+        background: url('assets/imgs/sans_icon.jpg') bottom right 15% no-repeat #ffffff;
+    }
+
+    .demo-card-square .mdl-card__title.icon4 {
+        color: #fff;
+        background: url('assets/imgs/icon2.png') bottom right 15% no-repeat #80cbc4;
+    }
+</style>
