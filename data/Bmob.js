@@ -4,21 +4,44 @@ function save() {
     const query = Bmob.Query("data");
     query.set("content", "test");
     query.set("picture", "test");
+    query.set("title","test");
+    query.set("link","test");
     query.save();
 }
 
 function get() {
-    const main_div = document.getElementById("main_layout");
-    const card_div=document.getElementById("card_layout");
+
     const query = Bmob.Query("data");
     query.find().then(res => {
-        const obj = eval(res);
-        const div = document.createElement("div");
-        const div2=document.createElement("h1");
-        div2.innerHTML=obj.createdAt;
-        div.appendChild(div2);
-        main_div.appendChild(div);
-        console.log(res);
+        for (let i = 0; i < res.length; i++) {
+            const obj = eval(res[i]);
+            const main_div = document.getElementById("main_grid");
+            const div1 = document.createElement("div");
+            div1.className = "demo-card-square mdl-card mdl-shadow--2dp";
+            div1.style.margin = "16px";
+            const div2 = document.createElement("div");
+            div2.className = " mdl-card__title mdl-card--expand";
+            div2.style.backgroundImage ="url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563782815351&di=6eb49c98d55aee0504f6dcb2b7990036&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn23%2F644%2Fw350h294%2F20181127%2F0764-hpinrya6389566.jpg')";
+            const h1 = document.createElement("h2");
+            h1.className = "mdl-card__title-text";
+            h1.innerHTML = obj.title;
+            div2.appendChild(h1);
+            const div3 = document.createElement("div");
+            div3.className = "mdl-card__supporting-text";
+            div3.innerHTML = obj.content;
+            const div4 = document.createElement("div");
+            div4.className = "mdl-card__actions mdl-card--border";
+            const a = document.createElement("a");
+            a.className = "mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect";
+            a.href = obj.link;
+            a.innerHTML = "DOWNLOAD";
+            div4.appendChild(a);
+            div1.appendChild(div2);
+            div1.appendChild(div3);
+            div1.appendChild(div4);
+            main_div.appendChild(div1);
+        }
+
     })
 
 }

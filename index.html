@@ -12,8 +12,9 @@
           content="width=device-width, initial-scale=0.5, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
     <title>远方の客栈</title>
 </head>
-<body>
+<body onload=get()>
 <!--头部-->
+
 <div class="mdl-layout mdl-js-layout">
     <header class="mdl-layout__header mdl-layout__header--scroll">
         <div class="mdl-layout__header-row">
@@ -31,31 +32,30 @@
         <span class="mdl-layout-title">导航</span>
         <nav class="mdl-navigation">
             <a class="mdl-navigation__link">主页</a>
-    
+
         </nav>
     </div>
-    <main class="mdl-layout__content" id="main_layout">
-
+    <main class="mdl-layout__content" id="main_layout" >
         <div class="page-content" style="margin: 16px" align="center">
-            <div class="mdl-grid" align="center">
-                <div class="demo-card-square mdl-card mdl-shadow--2dp" style="margin: 16px" align="center" id="card_layout">
+            <div class="mdl-grid" align="center"  id="main_grid">
+                <div class="demo-card-square mdl-card mdl-shadow--2dp" style="margin: 16px" align="center"
+                     id="card_layout">
                     <div class="mdl-card__title icon1 mdl-card--expand">
-                        <h2 class="mdl-card__title-text">大佬QQ点赞</h2>
-
+                        <h2 class="mdl-card__title-text" id="title">大佬QQ点赞</h2>
                     </div>
-                    <div class="mdl-card__supporting-text">
+                    <div class="mdl-card__supporting-text" id="content">
                         这是一个用来全自动互赞 互赞的一个工具
                         无需ROOT 就能一键互赞
                     </div>
                     <div class="mdl-card__actions mdl-card--border">
                         <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect"
-                           href="https://www.lanzous.com/i36tx8j">
+                           href="https://www.lanzous.com/i36tx8j" id="link">
                             Download
                         </a>
                     </div>
                 </div>
-                <div class="demo-card-square mdl-card mdl-shadow--2dp" style="margin: 16px">
-                    <div class="mdl-card__title icon3 mdl-card--expand" >
+                <div class="demo-card-square mdl-card mdl-shadow--2dp" style="margin: 16px" align="center">
+                    <div class="mdl-card__title icon3 mdl-card--expand">
                         <h2 class="mdl-card__title-text">Google Sans 字体下载</h2>
                     </div>
                     <div class="mdl-card__supporting-text">
@@ -71,8 +71,6 @@
                 </div>
 
             </div>
-            <BUTTON onclick=get()>Bmob
-            </BUTTON>
         </div>
     </main>
     <footer class="mdl-mini-footer">
@@ -112,6 +110,14 @@
 
     .demo-card-square .mdl-card__title.icon4 {
         color: #fff;
-        background: url('assets/imgs/icon2.png') bottom right 15% no-repeat #80cbc4;
+        background: url('assets/imgs/icon2.png')
+        bottom
+        right 15%
+        no-repeat #80cbc4;
+    }
+    .demo-card-square .mdl-card__title {
+        color: #fff;
+        background: bottom right 15% no-repeat #46B6AC;
+        background-size: 320px 320px;
     }
 </style>
