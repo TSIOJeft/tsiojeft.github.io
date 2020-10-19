@@ -21,7 +21,7 @@ function get() {
             div1.style.margin = "16px";
             const div2 = document.createElement("div");
             div2.className = " mdl-card__title mdl-card--expand";
-            div2.style.backgroundImage ="url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563782815351&di=6eb49c98d55aee0504f6dcb2b7990036&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn23%2F644%2Fw350h294%2F20181127%2F0764-hpinrya6389566.jpg')";
+            div2.style.backgroundImage ="url("+obj.picture+")";
             const h1 = document.createElement("h2");
             h1.className = "mdl-card__title-text";
             h1.innerHTML = obj.title;
