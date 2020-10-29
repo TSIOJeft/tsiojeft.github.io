@@ -2,7 +2,7 @@
 
 > 你一直需要的一个清理 APP ，一个简洁的清理工具。
 # 官方下载地址
-[酷安](https://ww.coolapk.com/apk/com.farplace.qingzhuo)
+[酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo)
 * 小米 魅族 在商店搜索 清浊即可
 
 # 功能介绍
