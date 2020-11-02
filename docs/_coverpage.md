@@ -1,4 +1,4 @@
-![](imgs/icon_big.png)
+# 清浊 APP
 
 > 一个简洁的清理工具
 
