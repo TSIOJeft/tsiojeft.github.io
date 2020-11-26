@@ -5,19 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.5.7
+# 最新版本 1.5.8
 
 ## 更新日志
 
-```日志
-优化规则添加 APP icon 丢失问题
-优化重复文件卡住问题
-优化清理运存部分用户无法使用的问题
-新增根目录整理 强迫症清理 文件大小分析 文件夹快速操作菜单
-优化高级版用户高级功能时而不能使用的问题
-优化高级版支付的问题
-
-```
+[更新日志](https://www.coolapk.com/feed/23191327?shareKey=OGRiZTU0ZmFkMzhiNWZiZjg5YzM~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
 
 # 功能介绍
 
@@ -31,7 +23,13 @@
 > 根目录整理 强迫症清理 长按文件夹快速添加到排除项
 
 
+## 快速清理
 
+* 快速扫描多项任务的垃圾文件 
+
+`点击进入垃圾详情`
+
+`长按取消选择不再清理`
 
 ## 常规清理
 * 常规清理是清浊最核心的功能 
@@ -144,6 +142,8 @@
 可以点击下方链接扫码付款 
 
 > 应用内点击支付宝支付 跳转支付宝后支付完成 回到应用点击我已经付款确认 激活码自动被填充 这种方式的话激活码就是订单号
+
+> 扫码支付需要发送订单号给作者才能激活 QQ 微信是10开头的商家交易订单号 支付宝是20开头的单号
 
 `如果支付完没有回调记得发单号到作者 QQ`
 

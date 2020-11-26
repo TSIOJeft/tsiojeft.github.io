@@ -34,3 +34,8 @@
 
 由docsify编写
 [docsify](https://docsifyjs.netlify.app/)
+
+## 使用的开源库
+
+## 音效
+支付成功音效@Apple 公司 AppStore付款音效
