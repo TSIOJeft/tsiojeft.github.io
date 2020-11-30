@@ -37,5 +37,14 @@
 
 ## 使用的开源库
 
+[Goodle MD](https://material.io/)
+[Gson](https://github.com/google/gson)
+[RxJava](https://github.com/ReactiveX/RxJava)
+[AndroidShell](https://github.com/jaredrummler/AndroidShell)
+[okio](https://github.com/square/okio)
+[okhttp](https://github.com/square/okhttp)
+[Glide](https://github.com/bumptech/glide)
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+[Volley](https://github.com/google/volley)
 ## 音效
 支付成功音效@Apple 公司 AppStore付款音效

@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.5.8
+# 最新版本 1.5.9
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/23191327?shareKey=OGRiZTU0ZmFkMzhiNWZiZjg5YzM~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
+[更新日志](https://www.coolapk.com/feed/23266236?shareKey=NmQyNGI2NGJkYzA0NWZjNDg1Yzg~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
 
 # 功能介绍
 
@@ -62,6 +62,10 @@
 ## 卸载残留
 快速扫描残留在你` android/data ` 下的已经卸载应用的文件 ` 当然有些应用的文件夹名并不是应用名所以这部分的文件不作为卸载残留` 如果你有特殊的应用数据是存储在的 这个文件夹下面 那么请清理的时候格外注意你的文件们
 
+## 应用缓存清理
+`此功能只针对安卓11用户`
+清理所有其他应用的外部缓存
+
 ## APK 清理
 这个就不用太多介绍了吧 扫描本地的 apk 文件的 当前版本和旧版本会自动勾选 清理的时候请注意你们的绝版 apk 哦
 
@@ -76,6 +80,15 @@
 类似冰箱的功能 可以冻结 app 使其不再能被启动 并且处于停用状态 用来防止流氓软件疯狂在后台做事
 点击应用添加冻结 点击列表 取消冻结
 ` 这个功能需要 ROOT `
+
+## 应用编译优化
+* 可加快应用速度优化续航
+
+> 尽量不要编译系统应用避免出现问题
+
+`推荐speed编译`
+
+编译完成后 每次重启优化失效 如果编译后出现问题 重启手机即可
 
 # 高级功能
 
