@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.5.9
+# 最新版本 1.6.0
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/23266236?shareKey=NmQyNGI2NGJkYzA0NWZjNDg1Yzg~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
+[更新日志](https://www.coolapk.com/feed/23774462?shareKey=ZDI2YjAxZWJlNGY1NWZlNWFiNDI~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3&tdsourcetag=s_pctim_aiomsg)
 
 # 功能介绍
 
@@ -47,6 +47,9 @@
 ## 空文件夹清理
 虽然文件夹貌似不占内存 但其实还是会有 大概 4kb 的内存占用 而且对于大多数强迫症用户来说 空文件夹疯狂嵌套是十分让人烦恼的 所以这个功能会清理空文件夹 包括嵌套空文件夹 直接清理 牛批 开冲就完事了
 
+## 闲杂文件清理
+可以扫描手机存储中的` logs log `,` cache caches `,` tmf tmp `, ` tlog `文件 这些大都是闲杂文件 无用文件 可以放心删除😘
+
 ## 根目录整理
 这个功能会扫描 ` /storage/emulated/0` 下的隐藏文件夹 和文件 除了 ` 带有safebox backup ` 的文件夹（为了防止删除文件备份和保险柜） 扫描完成请注意查看文件夹和文件 误删的话远方课没办法复原哦
 
@@ -83,6 +86,16 @@
 
 ## 应用编译优化
 * 可加快应用速度优化续航
+
+* SPEED 模式 尽量加速应用速度
+
+* EVERYTHING 模式 尽量编译能被编译的应用
+
+意思也就是说speed 针对速度 但不一定所有都能编译 everything 速度可能不如speed 但是可以编译一些speed 无法编译的应用
+
+* RECOVER 取消应用编译恢复原状
+
+` 长按这三个按钮都能起到全部应用都作用的效果 `
 
 > 尽量不要编译系统应用避免出现问题
 
