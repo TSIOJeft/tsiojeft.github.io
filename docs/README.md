@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.6.0
+# 最新版本 1.6.1
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/23774462?shareKey=ZDI2YjAxZWJlNGY1NWZlNWFiNDI~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3&tdsourcetag=s_pctim_aiomsg)
+[更新日志](https://www.coolapk.com/feed/23836664?shareKey=ZjI5ZDliY2NlM2E2NWZlOTk1NTg~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
 
 # 功能介绍
 
@@ -133,6 +133,11 @@
 
 ## 全局 ROOT
 当你开启这个选项后 清浊将扫描规则中的 ` /data/data ` 路径下的文件 并删除 应用清理也会扫描` /data/data` 路径下的文件 如果开启这个选项后有些 app 出现问题请关闭这个选项 并重装这些 app
+
+## 解锁 Android/data
+针对安卓 R 用户` android/data `路径无法被访问，清浊使用 ROOT 解锁这个文件夹，使其可以被读写。
+
+！> 过程不可逆 需要 ROOT 无法恢复到解锁之前的状态 慎重决定
 
 ## 多用户模式
 可能有些用户在手机上开了分身 那么打开这个选项即可扫描其他分身的文件 强
