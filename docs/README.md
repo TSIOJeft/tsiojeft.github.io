@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.6.1
+# 最新版本 1.6.2
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/23836664?shareKey=ZjI5ZDliY2NlM2E2NWZlOTk1NTg~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
+[更新日志](https://www.coolapk.com/feed/23953928?shareKey=MWM5MzNkZDU1NDQyNWZmMDE3MDk~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
 
 # 功能介绍
 
@@ -144,6 +144,9 @@
 
 ## 存储重定向 Nolitter 的适配
 如果你在手机使用了这两个 app 那么为了保证能够正确扫描到文件 可以开启这个选项 不然可能扫描不到文件
+
+## 菜单栏选项编辑
+可以选择显示在菜单栏的选项 勾选是` 显示 `  不勾选是` 不显示 `
 
 # 重要的功能
 
