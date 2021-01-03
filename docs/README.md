@@ -183,11 +183,11 @@
 
 !> 检查激活码后会自动跳转 QQ 登陆后自动绑定 QQ
 
-* 高级版 5块 永久
+* 高级版 9.9块 永久
 付款完成后记录下自己的 `单号` 复制发给作者
 [微信支付](https://s1.ax1x.com/2020/08/24/dsSONF.png)
-[支付宝支付](https://s1.ax1x.com/2020/06/22/NGeR8x.png)
-[ QQ 支付](https://s1.ax1x.com/2020/08/07/ahJqPO.png)
+[支付宝支付](https://s3.ax1x.com/2021/01/02/rzxgun.png)
+[ QQ 支付](https://s3.ax1x.com/2021/01/02/rzx2Bq.png)
 [发送单号](http://wpa.qq.com/msgrd?v=3&uin=1971214855&site=qq&menu=yes)
 * 感谢大家的支持
 
