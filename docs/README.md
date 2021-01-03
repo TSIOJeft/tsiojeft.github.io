@@ -185,7 +185,7 @@
 
 * 高级版 9.9块 永久
 付款完成后记录下自己的 `单号` 复制发给作者
-[微信支付](https://s1.ax1x.com/2020/08/24/dsSONF.png)
+[微信支付](https://s3.ax1x.com/2021/01/03/s9utAK.png)
 [支付宝支付](https://s3.ax1x.com/2021/01/02/rzxgun.png)
 [ QQ 支付](https://s3.ax1x.com/2021/01/02/rzx2Bq.png)
 [发送单号](http://wpa.qq.com/msgrd?v=3&uin=1971214855&site=qq&menu=yes)
