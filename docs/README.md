@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.6.2
+# 最新版本 1.6.3
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/23953928?shareKey=MWM5MzNkZDU1NDQyNWZmMDE3MDk~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
+[更新日志](https://www.coolapk.com/feed/24022356?shareKey=N2U1NWU5MzdmNzY2NWZmNDQyNjc~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
 
 # 功能介绍
 
