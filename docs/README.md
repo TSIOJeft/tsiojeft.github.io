@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.6.3
+# 最新版本 1.6.5
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/24022356?shareKey=N2U1NWU5MzdmNzY2NWZmNDQyNjc~&shareUid=2838135&shareFrom=com.coolapk.market_10.5.3)
+[更新日志](https://www.coolapk.com/feed/24343829?shareKey=OGYxMGMwNWRkZjUzNjAwOTI0MTE~&shareUid=2838135&shareFrom=com.coolapk.market_11.0)
 
 # 功能介绍
 
@@ -33,6 +33,8 @@
 
 ## 常规清理
 * 常规清理是清浊最核心的功能 
+
+` 如果没有任务执行 可以进入 规则管理 进行同步规则 `
 
 根据本地存在的清理规则来扫描指定APP的相关路径文件，支持自定义，支持修改，支持/data/下的扫描
 在常规清理界面点击 圆形按钮即可开始按照规则扫描文件 
