@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.6.5
+# 最新版本 1.6.6
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/24343829?shareKey=OGYxMGMwNWRkZjUzNjAwOTI0MTE~&shareUid=2838135&shareFrom=com.coolapk.market_11.0)
+[更新日志](https://www.coolapk.com/feed/24363242?shareKey=YzBlNTc2NGJmNjNkNjAwYTYwMzY~&shareUid=2838135&shareFrom=com.coolapk.market_11.0)
 
 # 功能介绍
 
@@ -112,6 +112,8 @@
 
 ## 存储大小分析
 和分类分析不同的是 这个功能按照文件夹大小排序 方便用户清楚文件夹大小的排序 清楚自己的主要文件大小放在了那 也可以快速删除管理这些文件们
+
+` 安卓11用户需要手动点击进入 Android/data 文件夹 才能分析 `
 
 ## 重复文件扫描
 扫描本地的重复文件们 并列出重复文件数 可以快速选择性删除重复文件 当然并不是全部删除 清浊会随机 ** 保留一个文件 删除其他重复文件们 **
