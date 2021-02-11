@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.6.7
+# 最新版本 1.6.8
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/24603271?shareKey=YWY0ZTZmZDM0NjU1NjAxOTEzY2Y~&shareUid=2838135&shareFrom=com.coolapk.market_11.0)
+[更新日志](https://www.coolapk.com/feed/24816884?shareKey=ODQ2MWQzYTEwNGNkNjAyNTE3YTg~&shareUid=2838135&shareFrom=com.coolapk.market_11.0)
 
 # 功能介绍
 
@@ -151,6 +151,9 @@
 
 ## 菜单栏选项编辑
 可以选择显示在菜单栏的选项 勾选是` 显示 `  不勾选是` 不显示 `
+
+## Android/data 扫描项选择 针对安卓11 用户
+可以选择扫描 android/data 的清理项 ` 开启后可能会影响扫描速度 `
 
 # 重要的功能
 
