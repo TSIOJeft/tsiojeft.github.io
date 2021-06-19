@@ -7,7 +7,7 @@
 - 功能丰富
 
 
-[下载](https://www.coolapk.com/apk/com.farplace.qingzhuo)
+[下载](README.md)
 [开始](README.md)
 
 ![color](#ffffff)
