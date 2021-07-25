@@ -89,6 +89,14 @@
 类似冰箱的功能 可以冻结 app 使其不再能被启动 并且处于停用状态 用来防止流氓软件疯狂在后台做事
 点击应用添加冻结 点击列表 取消冻结
 ` 这个功能需要 ROOT `
+` 如果你没有 ROOT 可以使用设备管理员激活这个功能`
+
+# 使用设备管理员冻结应用
+[视频教程如何激活]()
+使用 adb 连接到你的手机，并使用以下命令激活清浊
+> adb shell set-device-owner com.farplace.qingzhuo/.receiver.AdminReceiver
+
+提示success 则激活完成
 
 ## 应用编译优化
 * 可加快应用速度优化续航
