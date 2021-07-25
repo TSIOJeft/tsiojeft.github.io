@@ -91,10 +91,11 @@
 ` 这个功能需要 ROOT `
 ` 如果你没有 ROOT 可以使用设备管理员激活这个功能`
 
-# 使用设备管理员冻结应用
-[视频教程如何激活]()
+## 使用设备管理员冻结应用
+[视频教程如何激活](https://www.bilibili.com/video/BV1Df4y157Bw)
+[ADB 工具下载](https://adbshell.com/downloads)
 使用 adb 连接到你的手机，并使用以下命令激活清浊
-> adb shell set-device-owner com.farplace.qingzhuo/.receiver.AdminReceiver
+> adb shell dpm set-device-owner com.farplace.qingzhuo/.receiver.AdminReceiver
 
 提示success 则激活完成
 
