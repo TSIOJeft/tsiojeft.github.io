@@ -5,11 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 1.7.7_rebuild2 微信登录不了记得去网页下载
+# 最新版本 1.7.8
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/30531498?shareKey=ODkwNzNhN2Y2NjU3NjE1ZWVmY2Y~&shareUid=2838135&shareFrom=com.coolapk.market_11.2)
+[更新日志](https://www.coolapk.com/feed/32674933?shareKey=MDY5NmFmNjExZmU1NjFkOGZjMjE~&shareUid=2838135&shareFrom=com.coolapk.market_11.2.2)
 
 # 功能介绍
 
