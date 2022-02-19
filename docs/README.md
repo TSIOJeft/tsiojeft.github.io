@@ -5,13 +5,11 @@
 [酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
 [魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
-# 最新版本 2022-Happy New Year
-
-!> 清浊祝您新年快乐 
+# 最新版本 1.8.1
 
 ## 更新日志
 
-[更新日志](https://www.coolapk.com/feed/33227304?shareKey=MWI1NTgwNTk1YTY2NjFmN2NmMDY~&shareUid=2838135&shareFrom=com.coolapk.market_11.2.2)
+[更新日志](https://www.coolapk.com/feed/33671150?shareKey=OTMzY2Q1NGExM2M5NjIxMGFhZmM~&shareUid=2838135&shareFrom=com.coolapk.market_11.2.2)
 
 # 功能介绍
 
