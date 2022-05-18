@@ -2,8 +2,11 @@
 
 > 你一直需要的一个清理 APP ，一个简洁的清理工具。
 # 官方下载地址
-[酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) [小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
-[魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) [应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
+[酷安](https://www.coolapk.com/apk/com.farplace.qingzhuo) 
+[小米](http://app.mi.com/details?id=com.farplace.qingzhuo)
+[华为](https://appgallery.huawei.com/app/C104444281)
+[魅族](http://app.meizu.com/apps/public/detail?package_name=com.farplace.qingzhuo) 
+[应用宝](https://sj.qq.com/myapp/detail.htm?apkName=com.farplace.qingzhuo)
 
 OPPO VIVO 三星
 
